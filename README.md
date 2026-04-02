@@ -1,6 +1,10 @@
 # My-infographics-for-marketplaces
 An infographic I made for marketplaces to help me develop my skills💪
 
+## 🍓 Strawberry water
+
+<img src="./Infographics/КЛУБНИЧНАЯ%20ВОДА.png" width="400" alt="Main Slide">
+
 ### 🛠 Tools
 * Design: Figma
 
