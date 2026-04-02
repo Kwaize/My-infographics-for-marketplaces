@@ -3,11 +3,11 @@ An infographic I made for marketplaces to help me develop my skills💪
 
 ## 📦 SOME WORKS
 
-<img src="./Infographics/КЛУБНИЧНАЯ%20ВОДА.png" width="300" alt="Work_1"> <img src="./Infographics/КОРПУС%20ДЛЯ%20ПК.png" width="300" alt="Work_2"> <img src="./Infographics/РАКЕТКА%20ДЛЯ%20НАСТОЛЬНОГО%20ТЕННИСА.png" width="300" alt="Work_2">
+<img src="./Infographics/КЛУБНИЧНАЯ%20ВОДА.png" width="280" alt="Work_1"> <img src="./Infographics/КОРПУС%20ДЛЯ%20ПК.png" width="280" alt="Work_2"> <img src="./Infographics/РАКЕТКА%20ДЛЯ%20НАСТОЛЬНОГО%20ТЕННИСА.png" width="280" alt="Work_2">
 
 ## 🌪️ DYSON HAIRDRYER
 
-<img src="./Infographics/ФЕН%20DAISON%20товар.png" width="300" alt="Work_1"> <img src="./Infographics/ФЕН%20DAISON%20превосходство.png" width="300" alt="Work_2"> <img src="./Infographics/ФЕН%20DAISON%20описание.png" width="300" alt="Work_3">
+<img src="./Infographics/ФЕН%20DAISON%20товар.png" width="280" alt="Work_1"> <img src="./Infographics/ФЕН%20DAISON%20превосходство.png" width="280" alt="Work_2"> <img src="./Infographics/ФЕН%20DAISON%20описание.png" width="280" alt="Work_3">
 
 
 
