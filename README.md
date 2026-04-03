@@ -9,6 +9,9 @@ An infographic I made for marketplaces to help me develop my skills💪
 
 <img src="./Infographics/ФЕН%20DAISON%20товар.png" width="250" alt="Work_1"> <img src="./Infographics/ФЕН%20DAISON%20превосходство.png" width="250" alt="Work_2"> <img src="./Infographics/ФЕН%20DAISON%20описание.png" width="250" alt="Work_3">
 
+## 🔊 SMART SPEAKER
+
+<img src="./Infographics/Умная%20колонка%20VK%20Капсула%20Мини%20с%20голосовым%20помощником%20Марусей,%20морской%20синий%20(MRC02BL).png" width="250" alt="Work_1"> <img src="./Infographics/Умная%20колонка%20VK%20Капсула%20Мини%20с%20голосовым%20помощником%20Марусей,%20белый%20(MRC02BL).png" width="250" alt="Work_2"> <img src="./Infographics/Умная%20колонка%20VK%20Капсула%20Мини%20с%20голосовым%20помощником%20Марусей,%20чёрный%20(MRC02BL).png" width="250" alt="Work_3">
 
 
 ### 🛠 Tools
